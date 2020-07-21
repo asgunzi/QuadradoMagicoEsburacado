@@ -74,29 +74,48 @@ E assim, sucessivamente.
 Com isso, a rotina chegou à diversas soluções:
 
 6	9	10	0	17
+
 0	20	2	13	7
+
 18	5	0	16	3
+
 14	8	19	1	0
+
 4	0	11	12	15
+
 Ou:
 
 1	2	19	0	20
+
 0	18	12	3	9
+
 11	16	0	10	5
+
 17	6	4	15	0
+
 13	0	7	14	8
+
 Ou:
 
 2	4	17	0	19
+
 0	20	5	8	9
+
 10	15	0	16	1
+
 18	3	14	7	0
+
 12	0	6	11	13
+
+
+
 Na verdade, a rotina mostrou mais de 30 mil soluções (tinha várias permutações simples das soluções mostradas, e até repetidas).
 
 Mesmo não tendo a elegância de ter solução única, é um desafio computacional interessante.
 
-Download do código (em Python): https://github.com/asgunzi/QuadradoMagicoEsburacado
+Vide: https://ideiasesquecidas.com/2020/07/20/o-quadrado-magico-esburacado/
+
+Download do código (em Python), aqui no Github.
 
 Veja também:
 
